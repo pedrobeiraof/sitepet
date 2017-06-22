@@ -1,0 +1,865 @@
+{2017/06/21 15:39:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:39:59} Error: Could not create camera
+{2017/06/21 15:39:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+[2017/06/21 15:40:00] RaspiCam support started
+[2017/06/21 15:40:00] Capture Pipe already exists /var/www/html/FIFO1
+[2017/06/21 15:40:00] Scheduler loop is started
+[2017/06/21 15:40:01] New period detected 0
+[2017/06/21 15:40:01] Scheduled management tasks. Next at 1498074001
+{2017/06/21 15:40:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:04} Error: Could not create camera
+{2017/06/21 15:40:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:09} Error: Could not create camera
+{2017/06/21 15:40:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:14} Error: Could not create camera
+{2017/06/21 15:40:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:19} Error: Could not create camera
+{2017/06/21 15:40:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:24} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:24} Error: Could not create camera
+{2017/06/21 15:40:24} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:29} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:29} Error: Could not create camera
+{2017/06/21 15:40:29} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:34} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:34} Error: Could not create camera
+{2017/06/21 15:40:34} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:39} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:39} Error: Could not create camera
+{2017/06/21 15:40:39} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:44} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:44} Error: Could not create camera
+{2017/06/21 15:40:44} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:49} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:49} Error: Could not create camera
+{2017/06/21 15:40:49} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:54} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:54} Error: Could not create camera
+{2017/06/21 15:40:54} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:40:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:40:59} Error: Could not create camera
+{2017/06/21 15:40:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:04} Error: Could not create camera
+{2017/06/21 15:41:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:09} Error: Could not create camera
+{2017/06/21 15:41:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:14} Error: Could not create camera
+{2017/06/21 15:41:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:19} Error: Could not create camera
+{2017/06/21 15:41:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:24} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:24} Error: Could not create camera
+{2017/06/21 15:41:24} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:29} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:29} Error: Could not create camera
+{2017/06/21 15:41:29} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:34} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:34} Error: Could not create camera
+{2017/06/21 15:41:34} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:39} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:39} Error: Could not create camera
+{2017/06/21 15:41:39} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:44} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:44} Error: Could not create camera
+{2017/06/21 15:41:44} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:49} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:49} Error: Could not create camera
+{2017/06/21 15:41:49} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:54} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:54} Error: Could not create camera
+{2017/06/21 15:41:54} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:41:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:41:59} Error: Could not create camera
+{2017/06/21 15:41:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:04} Error: Could not create camera
+{2017/06/21 15:42:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:09} Error: Could not create camera
+{2017/06/21 15:42:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:14} Error: Could not create camera
+{2017/06/21 15:42:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:19} Error: Could not create camera
+{2017/06/21 15:42:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:24} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:24} Error: Could not create camera
+{2017/06/21 15:42:24} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:29} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:29} Error: Could not create camera
+{2017/06/21 15:42:29} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:35} Error: Could not create camera
+{2017/06/21 15:42:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:40} Error: Could not create camera
+{2017/06/21 15:42:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:45} Error: Could not create camera
+{2017/06/21 15:42:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:50} Error: Could not create camera
+{2017/06/21 15:42:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:42:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:42:55} Error: Could not create camera
+{2017/06/21 15:42:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:00} Error: Could not create camera
+{2017/06/21 15:43:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:05} Error: Could not create camera
+{2017/06/21 15:43:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:10} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:10} Error: Could not create camera
+{2017/06/21 15:43:10} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:15} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:15} Error: Could not create camera
+{2017/06/21 15:43:15} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:20} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:20} Error: Could not create camera
+{2017/06/21 15:43:20} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:25} Error: Could not create camera
+{2017/06/21 15:43:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:30} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:30} Error: Could not create camera
+{2017/06/21 15:43:30} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:35} Error: Could not create camera
+{2017/06/21 15:43:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:40} Error: Could not create camera
+{2017/06/21 15:43:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:45} Error: Could not create camera
+{2017/06/21 15:43:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:50} Error: Could not create camera
+{2017/06/21 15:43:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:43:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:43:55} Error: Could not create camera
+{2017/06/21 15:43:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:00} Error: Could not create camera
+{2017/06/21 15:44:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:05} Error: Could not create camera
+{2017/06/21 15:44:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:10} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:10} Error: Could not create camera
+{2017/06/21 15:44:10} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:15} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:15} Error: Could not create camera
+{2017/06/21 15:44:15} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:20} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:20} Error: Could not create camera
+{2017/06/21 15:44:20} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:25} Error: Could not create camera
+{2017/06/21 15:44:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:30} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:30} Error: Could not create camera
+{2017/06/21 15:44:30} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:35} Error: Could not create camera
+{2017/06/21 15:44:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:40} Error: Could not create camera
+{2017/06/21 15:44:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:45} Error: Could not create camera
+{2017/06/21 15:44:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:50} Error: Could not create camera
+{2017/06/21 15:44:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:44:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:44:55} Error: Could not create camera
+{2017/06/21 15:44:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:00} Error: Could not create camera
+{2017/06/21 15:45:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:05} Error: Could not create camera
+{2017/06/21 15:45:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:10} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:10} Error: Could not create camera
+{2017/06/21 15:45:10} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:15} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:15} Error: Could not create camera
+{2017/06/21 15:45:15} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:20} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:20} Error: Could not create camera
+{2017/06/21 15:45:20} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:25} Error: Could not create camera
+{2017/06/21 15:45:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:31} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:31} Error: Could not create camera
+{2017/06/21 15:45:31} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:36} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:36} Error: Could not create camera
+{2017/06/21 15:45:36} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:41} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:41} Error: Could not create camera
+{2017/06/21 15:45:41} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:46} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:46} Error: Could not create camera
+{2017/06/21 15:45:46} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:51} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:51} Error: Could not create camera
+{2017/06/21 15:45:51} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:45:56} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:45:56} Error: Could not create camera
+{2017/06/21 15:45:56} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:01} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:01} Error: Could not create camera
+{2017/06/21 15:46:01} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:06} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:06} Error: Could not create camera
+{2017/06/21 15:46:06} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:11} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:11} Error: Could not create camera
+{2017/06/21 15:46:11} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:16} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:16} Error: Could not create camera
+{2017/06/21 15:46:16} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:21} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:21} Error: Could not create camera
+{2017/06/21 15:46:21} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:26} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:26} Error: Could not create camera
+{2017/06/21 15:46:26} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:31} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:31} Error: Could not create camera
+{2017/06/21 15:46:31} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:36} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:36} Error: Could not create camera
+{2017/06/21 15:46:36} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:41} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:41} Error: Could not create camera
+{2017/06/21 15:46:41} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:46} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:46} Error: Could not create camera
+{2017/06/21 15:46:46} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:51} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:51} Error: Could not create camera
+{2017/06/21 15:46:51} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:46:56} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:46:56} Error: Could not create camera
+{2017/06/21 15:46:56} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:01} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:01} Error: Could not create camera
+{2017/06/21 15:47:01} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:06} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:06} Error: Could not create camera
+{2017/06/21 15:47:06} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:11} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:11} Error: Could not create camera
+{2017/06/21 15:47:11} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:16} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:16} Error: Could not create camera
+{2017/06/21 15:47:16} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:21} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:21} Error: Could not create camera
+{2017/06/21 15:47:21} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:26} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:26} Error: Could not create camera
+{2017/06/21 15:47:26} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:31} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:31} Error: Could not create camera
+{2017/06/21 15:47:31} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:36} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:36} Error: Could not create camera
+{2017/06/21 15:47:36} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:41} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:41} Error: Could not create camera
+{2017/06/21 15:47:41} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:46} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:46} Error: Could not create camera
+{2017/06/21 15:47:46} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:51} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:51} Error: Could not create camera
+{2017/06/21 15:47:51} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:47:56} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:47:56} Error: Could not create camera
+{2017/06/21 15:47:56} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:01} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:01} Error: Could not create camera
+{2017/06/21 15:48:01} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:06} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:06} Error: Could not create camera
+{2017/06/21 15:48:06} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:11} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:11} Error: Could not create camera
+{2017/06/21 15:48:11} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:16} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:16} Error: Could not create camera
+{2017/06/21 15:48:16} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:21} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:21} Error: Could not create camera
+{2017/06/21 15:48:21} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:26} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:26} Error: Could not create camera
+{2017/06/21 15:48:26} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:32} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:32} Error: Could not create camera
+{2017/06/21 15:48:32} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:37} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:37} Error: Could not create camera
+{2017/06/21 15:48:37} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:42} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:42} Error: Could not create camera
+{2017/06/21 15:48:42} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:47} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:47} Error: Could not create camera
+{2017/06/21 15:48:47} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:52} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:52} Error: Could not create camera
+{2017/06/21 15:48:52} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:48:57} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:48:57} Error: Could not create camera
+{2017/06/21 15:48:57} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:02} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:02} Error: Could not create camera
+{2017/06/21 15:49:02} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:07} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:07} Error: Could not create camera
+{2017/06/21 15:49:07} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:12} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:12} Error: Could not create camera
+{2017/06/21 15:49:12} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:17} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:17} Error: Could not create camera
+{2017/06/21 15:49:17} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:22} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:22} Error: Could not create camera
+{2017/06/21 15:49:22} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:27} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:27} Error: Could not create camera
+{2017/06/21 15:49:27} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:32} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:32} Error: Could not create camera
+{2017/06/21 15:49:32} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:37} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:37} Error: Could not create camera
+{2017/06/21 15:49:37} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:42} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:42} Error: Could not create camera
+{2017/06/21 15:49:42} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:47} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:47} Error: Could not create camera
+{2017/06/21 15:49:47} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:52} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:52} Error: Could not create camera
+{2017/06/21 15:49:52} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:49:57} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:49:57} Error: Could not create camera
+{2017/06/21 15:49:57} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:02} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:02} Error: Could not create camera
+{2017/06/21 15:50:02} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:07} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:07} Error: Could not create camera
+{2017/06/21 15:50:07} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:12} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:12} Error: Could not create camera
+{2017/06/21 15:50:12} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:17} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:17} Error: Could not create camera
+{2017/06/21 15:50:17} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:22} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:22} Error: Could not create camera
+{2017/06/21 15:50:22} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:27} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:27} Error: Could not create camera
+{2017/06/21 15:50:27} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:32} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:32} Error: Could not create camera
+{2017/06/21 15:50:32} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:37} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:37} Error: Could not create camera
+{2017/06/21 15:50:37} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:42} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:42} Error: Could not create camera
+{2017/06/21 15:50:42} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:47} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:47} Error: Could not create camera
+{2017/06/21 15:50:47} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:52} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:52} Error: Could not create camera
+{2017/06/21 15:50:52} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:50:57} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:50:57} Error: Could not create camera
+{2017/06/21 15:50:57} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:02} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:02} Error: Could not create camera
+{2017/06/21 15:51:02} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:07} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:07} Error: Could not create camera
+{2017/06/21 15:51:07} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:12} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:12} Error: Could not create camera
+{2017/06/21 15:51:12} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:18} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:18} Error: Could not create camera
+{2017/06/21 15:51:18} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:23} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:23} Error: Could not create camera
+{2017/06/21 15:51:23} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:28} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:28} Error: Could not create camera
+{2017/06/21 15:51:28} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:33} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:33} Error: Could not create camera
+{2017/06/21 15:51:33} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:38} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:38} Error: Could not create camera
+{2017/06/21 15:51:38} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:43} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:43} Error: Could not create camera
+{2017/06/21 15:51:43} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:48} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:48} Error: Could not create camera
+{2017/06/21 15:51:48} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:53} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:53} Error: Could not create camera
+{2017/06/21 15:51:53} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:51:58} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:51:58} Error: Could not create camera
+{2017/06/21 15:51:58} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:03} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:03} Error: Could not create camera
+{2017/06/21 15:52:03} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:08} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:08} Error: Could not create camera
+{2017/06/21 15:52:08} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:13} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:13} Error: Could not create camera
+{2017/06/21 15:52:13} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:18} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:18} Error: Could not create camera
+{2017/06/21 15:52:18} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:23} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:23} Error: Could not create camera
+{2017/06/21 15:52:23} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:28} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:28} Error: Could not create camera
+{2017/06/21 15:52:28} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:33} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:33} Error: Could not create camera
+{2017/06/21 15:52:33} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:38} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:38} Error: Could not create camera
+{2017/06/21 15:52:38} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:43} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:43} Error: Could not create camera
+{2017/06/21 15:52:43} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:48} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:48} Error: Could not create camera
+{2017/06/21 15:52:48} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:53} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:53} Error: Could not create camera
+{2017/06/21 15:52:53} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:52:58} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:52:58} Error: Could not create camera
+{2017/06/21 15:52:58} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:03} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:03} Error: Could not create camera
+{2017/06/21 15:53:03} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:08} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:08} Error: Could not create camera
+{2017/06/21 15:53:08} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:13} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:13} Error: Could not create camera
+{2017/06/21 15:53:13} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:18} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:18} Error: Could not create camera
+{2017/06/21 15:53:18} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:23} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:23} Error: Could not create camera
+{2017/06/21 15:53:23} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:28} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:28} Error: Could not create camera
+{2017/06/21 15:53:28} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:33} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:33} Error: Could not create camera
+{2017/06/21 15:53:33} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:38} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:38} Error: Could not create camera
+{2017/06/21 15:53:38} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:44} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:44} Error: Could not create camera
+{2017/06/21 15:53:44} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:49} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:49} Error: Could not create camera
+{2017/06/21 15:53:49} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:54} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:54} Error: Could not create camera
+{2017/06/21 15:53:54} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:53:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:53:59} Error: Could not create camera
+{2017/06/21 15:53:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:04} Error: Could not create camera
+{2017/06/21 15:54:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:09} Error: Could not create camera
+{2017/06/21 15:54:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:14} Error: Could not create camera
+{2017/06/21 15:54:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:19} Error: Could not create camera
+{2017/06/21 15:54:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:24} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:24} Error: Could not create camera
+{2017/06/21 15:54:24} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:29} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:29} Error: Could not create camera
+{2017/06/21 15:54:29} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:34} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:34} Error: Could not create camera
+{2017/06/21 15:54:34} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:39} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:39} Error: Could not create camera
+{2017/06/21 15:54:39} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:44} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:44} Error: Could not create camera
+{2017/06/21 15:54:44} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:49} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:49} Error: Could not create camera
+{2017/06/21 15:54:49} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:54} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:54} Error: Could not create camera
+{2017/06/21 15:54:54} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:54:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:54:59} Error: Could not create camera
+{2017/06/21 15:54:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:04} Error: Could not create camera
+{2017/06/21 15:55:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:09} Error: Could not create camera
+{2017/06/21 15:55:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:14} Error: Could not create camera
+{2017/06/21 15:55:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:19} Error: Could not create camera
+{2017/06/21 15:55:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:24} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:24} Error: Could not create camera
+{2017/06/21 15:55:24} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:29} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:29} Error: Could not create camera
+{2017/06/21 15:55:29} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:34} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:34} Error: Could not create camera
+{2017/06/21 15:55:34} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:39} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:39} Error: Could not create camera
+{2017/06/21 15:55:39} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:44} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:44} Error: Could not create camera
+{2017/06/21 15:55:44} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:49} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:49} Error: Could not create camera
+{2017/06/21 15:55:49} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:54} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:54} Error: Could not create camera
+{2017/06/21 15:55:54} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:55:59} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:55:59} Error: Could not create camera
+{2017/06/21 15:55:59} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:04} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:04} Error: Could not create camera
+{2017/06/21 15:56:04} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:09} Error: Could not create camera
+{2017/06/21 15:56:09} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:14} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:14} Error: Could not create camera
+{2017/06/21 15:56:14} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:19} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:19} Error: Could not create camera
+{2017/06/21 15:56:19} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:25} Error: Could not create camera
+{2017/06/21 15:56:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:30} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:30} Error: Could not create camera
+{2017/06/21 15:56:30} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:35} Error: Could not create camera
+{2017/06/21 15:56:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:40} Error: Could not create camera
+{2017/06/21 15:56:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:45} Error: Could not create camera
+{2017/06/21 15:56:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:50} Error: Could not create camera
+{2017/06/21 15:56:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:56:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:56:55} Error: Could not create camera
+{2017/06/21 15:56:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:00} Error: Could not create camera
+{2017/06/21 15:57:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:05} Error: Could not create camera
+{2017/06/21 15:57:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:10} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:10} Error: Could not create camera
+{2017/06/21 15:57:10} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:15} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:15} Error: Could not create camera
+{2017/06/21 15:57:15} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:20} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:20} Error: Could not create camera
+{2017/06/21 15:57:20} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:25} Error: Could not create camera
+{2017/06/21 15:57:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:30} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:30} Error: Could not create camera
+{2017/06/21 15:57:30} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:35} Error: Could not create camera
+{2017/06/21 15:57:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:40} Error: Could not create camera
+{2017/06/21 15:57:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:45} Error: Could not create camera
+{2017/06/21 15:57:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:50} Error: Could not create camera
+{2017/06/21 15:57:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:57:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:57:55} Error: Could not create camera
+{2017/06/21 15:57:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:00} Error: Could not create camera
+{2017/06/21 15:58:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:05} Error: Could not create camera
+{2017/06/21 15:58:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:10} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:10} Error: Could not create camera
+{2017/06/21 15:58:10} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:15} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:15} Error: Could not create camera
+{2017/06/21 15:58:15} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:20} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:20} Error: Could not create camera
+{2017/06/21 15:58:20} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:25} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:25} Error: Could not create camera
+{2017/06/21 15:58:25} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:30} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:30} Error: Could not create camera
+{2017/06/21 15:58:30} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:35} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:35} Error: Could not create camera
+{2017/06/21 15:58:35} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:40} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:40} Error: Could not create camera
+{2017/06/21 15:58:40} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:45} Error: Could not create camera
+{2017/06/21 15:58:45} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:50} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:50} Error: Could not create camera
+{2017/06/21 15:58:50} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:58:55} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:58:55} Error: Could not create camera
+{2017/06/21 15:58:55} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:00} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:00} Error: Could not create camera
+{2017/06/21 15:59:00} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:05} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:05} Error: Could not create camera
+{2017/06/21 15:59:05} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:11} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:11} Error: Could not create camera
+{2017/06/21 15:59:11} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:16} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:16} Error: Could not create camera
+{2017/06/21 15:59:16} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:21} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:21} Error: Could not create camera
+{2017/06/21 15:59:21} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:26} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:26} Error: Could not create camera
+{2017/06/21 15:59:26} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:31} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:31} Error: Could not create camera
+{2017/06/21 15:59:31} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:36} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:36} Error: Could not create camera
+{2017/06/21 15:59:36} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:41} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:41} Error: Could not create camera
+{2017/06/21 15:59:41} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:46} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:46} Error: Could not create camera
+{2017/06/21 15:59:46} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:51} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:51} Error: Could not create camera
+{2017/06/21 15:59:51} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 15:59:56} RaspiMJPEG Version 5.8.03
+{2017/06/21 15:59:56} Error: Could not create camera
+{2017/06/21 15:59:56} Executing macro /var/www/html/macros/error_hard.sh "Could not create camera"  
+{2017/06/21 16:04:45} RaspiMJPEG Version 5.8.03
+{2017/06/21 16:04:46} recommended video buffer size 65536
+{2017/06/21 16:04:46} h264 size set to 131072
+{2017/06/21 16:04:46} recommended video buffers 1
+{2017/06/21 16:04:46} h264 buffers set to recommended 1
+{2017/06/21 16:04:46} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/06/21 16:04:46} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/06/21 16:04:46} MJPEG streaming, ready to receive commands
+{2017/06/21 16:04:46} send smd 9
+[2017/06/21 16:04:51] RaspiCam support started
+[2017/06/21 16:04:52] Capture Pipe already exists /var/www/html/FIFO1
+{2017/06/21 16:04:52} Starting command loop
+[2017/06/21 16:04:52] Scheduler loop is started
+[2017/06/21 16:04:52] Reload parameters command requested
+[2017/06/21 16:04:52] Scheduler loop is started
+[2017/06/21 16:04:53] New period detected 0
+[2017/06/21 16:04:53] Scheduled management tasks. Next at 1498075493
+[2017/06/21 16:06:51] Logged in user::
+[2017/06/21 16:06:51] UserLevel 6
+[2017/06/21 16:11:07] Logged in user::
+[2017/06/21 16:11:07] UserLevel 6
+{2017/06/21 16:22:40} Watchdog detected problem. Stopping{2017/06/21 16:17:12} RaspiMJPEG Version 5.8.03
+{2017/06/21 16:17:12} recommended video buffer size 65536
+{2017/06/21 16:17:12} h264 size set to 131072
+{2017/06/21 16:17:12} recommended video buffers 1
+{2017/06/21 16:17:12} h264 buffers set to recommended 1
+{2017/06/21 16:17:12} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/06/21 16:17:12} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/06/21 16:17:12} MJPEG streaming, ready to receive commands
+{2017/06/21 16:17:12} send smd 9
+[2017/06/21 16:17:17] RaspiCam support started
+[2017/06/21 16:17:18] Capture Pipe already exists /var/www/html/FIFO1
+[2017/06/21 16:17:18] Scheduler loop is started
+{2017/06/21 16:17:18} Starting command loop
+[2017/06/21 16:17:18] Reload parameters command requested
+[2017/06/21 16:17:18] Scheduler loop is started
+[2017/06/21 16:17:19] New period detected 0
+[2017/06/21 16:17:19] Scheduled management tasks. Next at 1498076239
+{2017/06/21 16:27:16} RaspiMJPEG Version 5.8.03
+{2017/06/21 16:27:16} recommended video buffer size 65536
+{2017/06/21 16:27:16} h264 size set to 131072
+{2017/06/21 16:27:16} recommended video buffers 1
+{2017/06/21 16:27:16} h264 buffers set to recommended 1
+{2017/06/21 16:27:17} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/06/21 16:27:17} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/06/21 16:27:17} MJPEG streaming, ready to receive commands
+{2017/06/21 16:27:17} send smd 9
+[2017/06/21 16:27:22] RaspiCam support started
+[2017/06/21 16:27:22] Capture Pipe already exists /var/www/html/FIFO1
+[2017/06/21 16:27:22] Scheduler loop is started
+{2017/06/21 16:27:22} Starting command loop
+[2017/06/21 16:27:22] Reload parameters command requested
+[2017/06/21 16:27:22] Scheduler loop is started
+[2017/06/21 16:27:23] New period detected 0
+[2017/06/21 16:27:23] Scheduled management tasks. Next at 1498076843
+[2017/06/21 17:27:24] Scheduled management tasks. Next at 1498080444
+{2017/06/21 17:45:09} RaspiMJPEG Version 5.8.03
+{2017/06/21 17:45:10} recommended video buffer size 65536
+{2017/06/21 17:45:10} h264 size set to 131072
+{2017/06/21 17:45:10} recommended video buffers 1
+{2017/06/21 17:45:10} h264 buffers set to recommended 1
+{2017/06/21 17:45:10} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/06/21 17:45:10} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/06/21 17:45:10} MJPEG streaming, ready to receive commands
+{2017/06/21 17:45:10} send smd 9
+[2017/06/21 17:45:15] RaspiCam support started
+[2017/06/21 17:45:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/06/21 17:45:16] Scheduler loop is started
+{2017/06/21 17:45:16} Starting command loop
+[2017/06/21 17:45:16] Reload parameters command requested
+[2017/06/21 17:45:16] Scheduler loop is started
+[2017/06/21 17:45:17] New period detected 0
+[2017/06/21 17:45:17] Scheduled management tasks. Next at 1498081517
+[2017/06/22 12:57:09] New period detected 0
+[2017/06/22 12:57:09] Scheduled management tasks. Next at 1498150629
+[2017/06/22 13:57:10] Scheduled management tasks. Next at 1498154230
+[2017/06/22 14:37:50] Logged in user::
+[2017/06/22 14:37:50] UserLevel 6
+[2017/06/22 14:38:09] Logged in user::
+[2017/06/22 14:38:09] UserLevel 6
+[2017/06/22 14:57:11] Scheduled management tasks. Next at 1498157831
+[2017/06/22 15:07:33] Logged in user::
+[2017/06/22 15:07:33] UserLevel 6
+[2017/06/22 15:08:47] Logged in user::
+[2017/06/22 15:08:47] UserLevel 6
+[2017/06/22 15:09:18] Logged in user::
+[2017/06/22 15:09:18] UserLevel 6
+[2017/06/22 15:09:44] Logged in user::
+[2017/06/22 15:09:44] UserLevel 6
+[2017/06/22 15:10:39] Logged in user::
+[2017/06/22 15:10:39] UserLevel 6
+[2017/06/22 15:10:44] Logged in user::
+[2017/06/22 15:10:44] UserLevel 6
+[2017/06/22 15:11:07] Logged in user::
+[2017/06/22 15:11:07] UserLevel 6
+[2017/06/22 15:11:20] Logged in user::
+[2017/06/22 15:11:20] UserLevel 6
+[2017/06/22 15:11:21] Logged in user::
+[2017/06/22 15:11:21] UserLevel 6
+[2017/06/22 15:11:21] Logged in user::
+[2017/06/22 15:11:21] UserLevel 6
+[2017/06/22 15:11:21] Logged in user::
+[2017/06/22 15:11:21] UserLevel 6
+[2017/06/22 15:11:33] Logged in user::
+[2017/06/22 15:11:33] UserLevel 6
+[2017/06/22 15:11:34] Logged in user::
+[2017/06/22 15:11:34] UserLevel 6
+[2017/06/22 15:11:34] Logged in user::
+[2017/06/22 15:11:34] UserLevel 6
+[2017/06/22 15:11:46] Logged in user::
+[2017/06/22 15:11:46] UserLevel 6
+[2017/06/22 15:11:46] Logged in user::
+[2017/06/22 15:11:46] UserLevel 6
+[2017/06/22 15:11:59] Logged in user::
+[2017/06/22 15:11:59] UserLevel 6
+[2017/06/22 15:12:31] Logged in user::
+[2017/06/22 15:12:31] UserLevel 6
+[2017/06/22 15:12:36] Logged in user::
+[2017/06/22 15:12:36] UserLevel 6
+[2017/06/22 15:13:04] Logged in user::
+[2017/06/22 15:13:04] UserLevel 6
+[2017/06/22 15:13:06] Logged in user::
+[2017/06/22 15:13:06] UserLevel 6
+[2017/06/22 15:13:07] Logged in user::
+[2017/06/22 15:13:07] UserLevel 6
+[2017/06/22 15:13:07] Logged in user::
+[2017/06/22 15:13:07] UserLevel 6
+[2017/06/22 15:13:18] Logged in user::
+[2017/06/22 15:13:19] UserLevel 6
+[2017/06/22 15:13:36] Logged in user::
+[2017/06/22 15:13:36] UserLevel 6
+[2017/06/22 15:13:39] Logged in user::
+[2017/06/22 15:13:39] UserLevel 6
+[2017/06/22 15:13:48] Logged in user::
+[2017/06/22 15:13:48] UserLevel 6
+[2017/06/22 15:13:50] Logged in user::
+[2017/06/22 15:13:50] UserLevel 6
+[2017/06/22 15:16:26] Logged in user::
+[2017/06/22 15:16:26] UserLevel 6
+[2017/06/22 15:17:16] Logged in user::
+[2017/06/22 15:17:16] UserLevel 6
+[2017/06/22 15:57:12] Scheduled management tasks. Next at 1498161432
+[2017/06/22 16:57:13] Scheduled management tasks. Next at 1498165033
