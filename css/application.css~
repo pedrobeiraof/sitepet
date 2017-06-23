@@ -2,12 +2,10 @@
 
 #mjpeg_dest {
 width: 100%;
-cursor: zoom-in;
 }
 
 #mjpeg_dest.full {
 width: 1550px;
-cursor: zoom-out;
 }
 
 #background {
