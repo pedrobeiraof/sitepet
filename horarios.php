@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+session_start();
+?>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -54,7 +57,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="home.html" class="navbar-brand">
+        <a href="index.php" class="navbar-brand">
           <img src="img/logo.png" class="logo">
         </a>
       </div>
@@ -66,9 +69,9 @@
         <div class="main-navigation">
           <div class="container">
             <ul class="nav navbar-nav">
-              <li><a href="index.php"><i class="fa fa-calendar"></i> HOME </a></li>
-              <li><a href="camera.php"><i class="fa fa-calendar"></i> CÂMERA </a></li>
-              <li class="active" ><a href="horarios.php"><i class="fa fa-list"></i> HORÁRIOS </a></li>
+              <li><a href="index.php"><i class="fa fa-home"></i> HOME </a></li>
+              <li><a href="camera.php"><i class="fa fa-camera"></i> CÂMERA </a></li>
+              <li class="active" ><a href="horarios.php"><i class="fa fa-clock-o"></i> HORÁRIOS </a></li>
               <li><a href="#"><i class="fa fa-file-text"></i> DOWNLOAD </a></li>
               <li><a href="configuracao.php"><i class="fa fa-bar-chart"></i> CONFIGURAÇÕES </a></li>
             </ul>
@@ -119,22 +122,22 @@
               <h2>Horários Registrados</h2>
             </div>
             <div class="row">
-              <div class="form-group col-xs-2">
+              <div class="form-group col-xs-3">
               <label class="control-label">Horário 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php $_SESSION["hora"] .":". $_SESSION["minuto"] ?></strong>
+              <strong><?php echo "" . $_SESSION["hora"] .":". $_SESSION["minuto"] . "" ?></strong>
             </div>
             </div>
             <div class="row">
-              <div class="form-group col-xs-2">
+              <div class="form-group col-xs-3">
               <label class="control-label">Horário 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php $_SESSION["hora1"] .":". $_SESSION["minuto1"] ?></strong>
+              <strong><?php echo "" . $_SESSION["hora1"] .":". $_SESSION["minuto1"] . "" ?></strong>
             </div>
             </div>
 
             <div class="row">
-              <div class="form-group col-xs-2">
+              <div class="form-group col-xs-3">
               <label class="control-label">Horário 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php $_SESSION["hora2"] .":". $_SESSION["minuto2"] ?></strong>
+              <strong><?php echo "" . $_SESSION["hora2"] .":". $_SESSION["minuto2"] . "" ?></strong>
             </div>
             </div>
         </div>
@@ -149,37 +152,65 @@
             <div class="page-header">
               <h2>Alterar Horários</h2>
             </div>
+            <form method="POST" action="salvar.php">
             <div class="row">
               <div class="form-group col-xs-2">
-              <label class="control-label">Horário 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" />
+              <label class="control-label">Hora 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="hora" name="hora" maxlength="2">
+              </div>
+              <div class="form-group col-xs-2">
+              <label class="control-label">Minuto 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="minuto" name="minuto" maxlength="2"/>
             </div>
             </div>
+            
             <div class="row">
               <div class="form-group col-xs-2">
-              <label class="control-label">Horário 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" />
+              <label class="control-label">Hora 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="hora1" name="hora1" maxlength="2">
+              </div>
+              <div class="form-group col-xs-2">
+              <label class="control-label">Minuto 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="minuto1" name="minuto1" maxlength="2"/>
             </div>
             </div>
 
             <div class="row">
               <div class="form-group col-xs-2">
-              <label class="control-label">Horário 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" />
+              <label class="control-label">Hora 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="hora2" name="hora2" maxlength="2">
+              </div>
+              <div class="form-group col-xs-2">
+              <label class="control-label">Minuto 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
+              <input type="text" class="form-control" id="minuto2" name="minuto2" maxlength="2"/>
             </div>
             </div>
-        </div>
+            
+            <div class="row">
+            <div class="form-group col-xs-2">
+            <input type="submit" class="btn btn-lg btn-primary" value="Salvar">
+            </div>            
+            </div>
+            
+            </form>
+            <div id="atu" style="display: none;">
+            </div>
       </div>
     </div>
   </div>
+  </div>
 
     <!--scripts-->
+
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/datetimepicker.js"></script>
   <script src="js/bootstrap-select.js"></script>
   <script src="js/application.js"></script>
-
-
+   <script> 
+    setInterval(function () {
+        $("#atu").load("controle.php #atu");
+    }, 1000)    
+  </script>
   </body>
 

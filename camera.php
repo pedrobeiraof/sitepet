@@ -187,7 +187,7 @@
       <div class="col-sm-2">
           <div class="panel-body">
             <ul class="list-unstyled legend-list">
-              <a href="abrir_caixa.php" class="btn btn-lg btn-primary">Abrir</a>
+              <a href="abrir_caixa_camera.php" class="btn btn-lg btn-primary">Abrir</a>
             </ul>
           </div>
       </div><!--/.col-->
@@ -203,7 +203,8 @@
         </div><!--/.panel-->
       </div><!--/.col-->
     </div><!--/.row-->
-
+    <div id="atu" style="display: none;">
+    </div>
     <footer id="page-footer">
       <div class="educat-logo"></div>
       <ul>
@@ -221,6 +222,13 @@
   </div>
       <div class="container-fluid text-center liveimage">
       </div>
+
+    <script>  
+    setInterval(function () {
+        $("#atu").load("controle.php #atu");
+    }, 1000)    
+    </script>
+
       <?php if ($debugString != "") echo "$debugString<br>"; ?>
    </body>
 </html>
