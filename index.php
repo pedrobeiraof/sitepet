@@ -19,6 +19,8 @@ session_start();
 
     <!-- ESTILOS ESPECÍFICOS-->
     <link href="css/summernote.css" type="text/css" rel="stylesheet">
+    <link href="css/line.css" rel="stylesheet">
+
 
     <!-- FONTES -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,800,700italic,800italic' rel='stylesheet' type='text/css'>
@@ -69,9 +71,9 @@ session_start();
         <div class="main-navigation">
           <div class="container">
             <ul class="nav navbar-nav">
-              <li><a href="index.php"><i class="fa fa-home"></i> HOME </a></li>
+              <li class="active" ><a href="index.php"><i class="fa fa-home"></i> HOME </a></li>
               <li><a href="camera.php"><i class="fa fa-camera"></i> CÂMERA </a></li>
-              <li class="active" ><a href="horarios.php"><i class="fa fa-clock-o"></i> HORÁRIOS </a></li>
+              <li><a href="horarios.php"><i class="fa fa-clock-o"></i> HORÁRIOS </a></li>
               <li><a href="#"><i class="fa fa-file-text"></i> DOWNLOAD </a></li>
               <li><a href="configuracao.php"><i class="fa fa-bar-chart"></i> CONFIGURAÇÕES </a></li>
             </ul>
@@ -90,10 +92,9 @@ session_start();
               <li><a href="preferencias.html">Meu Perfil</a></li>
               <li><a href="alterar-senha.html">Alterar senha</a></li>
               <li role="separator" class="divider"></li>
-              <li><a href="#">Sair</a></li>
+              <li><a href="../">Sair</a></li>
             </ul>
           </li>
-
         </ul>
 
         <form class="navbar-form navbar-right" role="search">
@@ -108,109 +109,60 @@ session_start();
       </div><!-- /.navbar-collapse -->
     </div>
   </div><!--/#navigation-->
-    <!--/.container-->
-<div class="container">
+    <div class="text-center">
+      <div class="jumbotron">
+        <div class="container-fluid">
+          <h1>Olá, Paulo!</h1>
+          <div id="atu2">
+          <p>O cachorro está:<br><strong>
+           <?php
+          session_start();        
+          
+          $a = $_SESSION['proximidade'];              
+          
+          if($a == 1) {
+            echo "Próximo";
+          }
+          else if($a == 0) {
+            echo "Afastado";
+           }
+           ?>
+          </strong></p>
+          </div>
+          
+          <div id="atu" style="display: none"></div>
 
-    <h1>Horários</h1>
+          <a href="abrir_caixa.php" class="btn btn-lg btn-primary">Abrir</a>
+          <div class="line"></div>
+          <h1>Horários Marcados</h1>
+          <p>Horário 1 : <strong> <?php echo "" . $_SESSION["hora"] .":". $_SESSION["minuto"] . "" ?> </strong></p>
+          <p>Horário 2 : <strong> <?php echo "" . $_SESSION["hora1"] .":". $_SESSION["minuto1"] . "" ?> </strong></p>
+          <p>Horário 3 : <strong> <?php echo "" . $_SESSION["hora2"] .":". $_SESSION["minuto2"] . "" ?> </strong></p>
 
-
-    <div class="row">
-      <div class="col-xs-9">
-        <div class="panel">
-          <div class="panel-body">
-            <div class="page-header">
-              <h2>Horários Registrados</h2>
-            </div>
-            <div class="row">
-              <div class="form-group col-xs-3">
-              <label class="control-label">Horário 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php echo "" . $_SESSION["hora"] .":". $_SESSION["minuto"] . "" ?></strong>
-            </div>
-            </div>
-            <div class="row">
-              <div class="form-group col-xs-3">
-              <label class="control-label">Horário 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php echo "" . $_SESSION["hora1"] .":". $_SESSION["minuto1"] . "" ?></strong>
-            </div>
-            </div>
-
-            <div class="row">
-              <div class="form-group col-xs-3">
-              <label class="control-label">Horário 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <strong><?php echo "" . $_SESSION["hora2"] .":". $_SESSION["minuto2"] . "" ?></strong>
-            </div>
-            </div>
-        </div>
-      </div>
     </div>
-  </div>
-
-      <div class="row">
-      <div class="col-xs-9">
-        <div class="panel">
-          <div class="panel-body">
-            <div class="page-header">
-              <h2>Alterar Horários</h2>
-            </div>
-            <form method="POST" action="salvar.php">
-            <div class="row">
-              <div class="form-group col-xs-2">
-              <label class="control-label">Hora 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="hora" name="hora" maxlength="2">
-              </div>
-              <div class="form-group col-xs-2">
-              <label class="control-label">Minuto 1 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="minuto" name="minuto" maxlength="2"/>
-            </div>
-            </div>
-            
-            <div class="row">
-              <div class="form-group col-xs-2">
-              <label class="control-label">Hora 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="hora1" name="hora1" maxlength="2">
-              </div>
-              <div class="form-group col-xs-2">
-              <label class="control-label">Minuto 2 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="minuto1" name="minuto1" maxlength="2"/>
-            </div>
-            </div>
-
-            <div class="row">
-              <div class="form-group col-xs-2">
-              <label class="control-label">Hora 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="hora2" name="hora2" maxlength="2">
-              </div>
-              <div class="form-group col-xs-2">
-              <label class="control-label">Minuto 3 <i class="fa fa-question-circle hastooltip" title="" data-original-title="Texto de ajuda"></i></label>
-              <input type="text" class="form-control" id="minuto2" name="minuto2" maxlength="2"/>
-            </div>
-            </div>
-            
-            <div class="row">
-            <div class="form-group col-xs-2">
-            <input type="submit" class="btn btn-lg btn-primary" value="Salvar">
-            </div>            
-            </div>
-            
-            </form>
-            <div id="atu" style="display: none;">
-            </div>
-      </div>
     </div>
-  </div>
-  </div>
 
     <!--scripts-->
-
+  
+  
+  
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/datetimepicker.js"></script>
   <script src="js/bootstrap-select.js"></script>
   <script src="js/application.js"></script>
-   <script> 
+  
+  <script>  
     setInterval(function () {
         $("#atu").load("controle.php #atu");
     }, 1000)    
   </script>
-  </body>
+  
+  <script>  
+    setInterval(function () {
+        $("#atu2").load("index.php #atu2");
+    }, 1000)    
+  </script>
 
+</body>
+</html>
